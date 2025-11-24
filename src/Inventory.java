@@ -47,6 +47,7 @@ public class Inventory {
         p.quantity = q;
         System.out.println("Quantity updated.");
     }
+    
 
     public void deleteProd() {
         Scanner sc = new Scanner(System.in);
